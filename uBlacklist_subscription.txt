@@ -1,4 +1,4 @@
-cloud.tencent.com/developer/article/*
+*://*.tencent.com/developer/article/*
 *://*.csdn.net/*
 *://*.005i.com/*
 *://*.01-123.com/*
